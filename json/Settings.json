@@ -1,0 +1,52 @@
+{
+	"Settings":
+	{
+		"xsi": "http://www.w3.org/2001/XMLSchema-instance",
+		"noNamespaceSchemaLocation": "file:/C:/Users/Alain/Dropbox/NewDaf/Daf_Prescriber.xsd",
+		"Server":
+		{
+			"srvUrl": " www.demo.macsys.be",
+			"srvUid": "ath",
+			"srvPsw": "ath",
+			"srvPort": "3360"
+		},
+		"Prescriber":
+		{
+			"name": "Thire",
+			"fName": "Alain",
+			"title": "Dr.",
+			"prescType": "Doctor",
+			"registrationNumber": "BE123456789AB",
+			"user": "admin",
+			"password": "123456789",
+			"Accounts":
+			{
+
+				"Account": [ 				{
+					"organisation": "Private practive  ",
+					"default": "YES",
+					"language": "NL",
+					"intRef": "100",
+					"city": "Leuven",
+					"zip": "3360",
+					"country": "Belgium",
+					"street": "Opvelpsestraat 11"
+				}, 				{
+					"organisation": "Work practice",
+					"default": "NO",
+					"language": "ENGL",
+					"intRef": "200",
+					"city": "Leuven",
+					"zip": "3000",
+					"country": "Belgium",
+					"street": "Oude Baan 303 "
+				} ]
+			}
+		},
+		"Logging":
+		{
+			"Mode": "LOW",
+			"Location": "../Log"
+		}
+	}
+}

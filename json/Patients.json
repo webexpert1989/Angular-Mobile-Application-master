@@ -1,0 +1,105 @@
+{
+	"Patients": {
+		"Patient": [
+			{
+				"name": "Alain",
+				"fName": "Thire",
+				"gender": "M",
+				"birthDate": "19/12/1959",
+				"socialSecurityNbr": "195912123456",
+				"tel": "543254235",
+				"gcm": "3463634745"
+			},
+			{
+				"name": "Karin",
+				"fName": "Mertens",
+				"gender": "F",
+				"birthDate": "20/08/1961",
+				"socialSecurityNbr": "196408123456",
+				"tel": "65865965",
+				"gcm": "780897078"
+			},
+			{
+				"name": "Joelle",
+				"fName": "Thiré",
+				"gender": "F",
+				"birthDate": "20/11/1987",
+				"socialSecurityNbr": "198711234567",
+				"tel": "423432432",
+				"gcm": "575686586"
+			},
+			{
+				"name": "11111",
+				"fName": "11111",
+				"gender": "F",
+				"birthDate": "20/11/1987",
+				"socialSecurityNbr": "198711234567",
+				"tel": "423432432",
+				"gcm": "575686586"
+			},
+			{
+				"name": "11122222",
+				"fName": "2211111222",
+				"gender": "F",
+				"birthDate": "20/11/1987",
+				"socialSecurityNbr": "198711234567",
+				"tel": "423432432",
+				"gcm": "575686586"
+			},
+			{
+				"name": "3331111133",
+				"fName": "3111113333",
+				"gender": "F",
+				"birthDate": "20/11/1987",
+				"socialSecurityNbr": "198711234567",
+				"tel": "423432432",
+				"gcm": "575686586"
+			},
+			{
+				"name": "4411111444",
+				"fName": "4411111444",
+				"gender": "F",
+				"birthDate": "20/11/1987",
+				"socialSecurityNbr": "198711234567",
+				"tel": "423432432",
+				"gcm": "575686586"
+			},
+			{
+				"name": "55511111555",
+				"fName": "51111155555",
+				"gender": "F",
+				"birthDate": "20/11/1987",
+				"socialSecurityNbr": "198711234567",
+				"tel": "423432432",
+				"gcm": "575686586"
+			},
+			{
+				"name": "6611111666",
+				"fName": "6611111666",
+				"gender": "F",
+				"birthDate": "20/11/1987",
+				"socialSecurityNbr": "198711234567",
+				"tel": "423432432",
+				"gcm": "575686586"
+			},
+			{
+				"name": "7777",
+				"fName": "7777",
+				"gender": "F",
+				"birthDate": "20/11/1987",
+				"socialSecurityNbr": "198711234567",
+				"tel": "423432432",
+				"gcm": "575686586"
+			},
+			{
+				"name": "881111188",
+				"fName": "8888",
+				"gender": "F",
+				"birthDate": "20/11/1987",
+				"socialSecurityNbr": "198711234567",
+				"tel": "423432432",
+				"gcm": "575686586"
+			}
+		]
+	}
+}

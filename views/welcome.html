@@ -1,0 +1,56 @@
+<!-- 
+- View for Patient page
+-->
+
+<div id = "view-patient" class = "page-container" ng-init = "$parent.openLeftMenu = false">
+	<div data-left-menu>
+		<ul>
+			<li><a href = "#/patients" class = "icon-patient">{{labels.Patient}}</a></li>
+			<li><a href = "#/request" class = "icon-request">{{labels.Request}}</a></li>
+			<li><a href = "#/processing" class = "icon-processing">{{labels.Processing}}</a></li>
+			<li><a href = "#/settings" class = "icon-settings">{{labels.Settings}}</a></li>
+			<li><a href = "" class = "icon-signout" ng-click = "signOut()">{{labels.Sign_Out}}</a></li>
+			<li data-mobile-only></li>
+		</ul>
+	</div>
+	
+	<div data-role = "page">
+		<div class = "page-wrapper">
+			<div class = "page-subject">
+				{{labels.Welcome}}
+			</div>
+			<div class = "page-content">
+				<div class = "page-full-form col-lg-12">
+
+					<div class = "part-content">
+						<b>General Information</b>
+						<p>
+							... ... <br>
+							... ... <br>
+							... ... <br>
+						</p>
+					</div>
+					
+					<div class = "part-content">
+						<b>This is HTML text</b>
+						<p>
+							... ... <br>
+							... ... <br>
+							... ... <br>
+						</p>
+					</div>
+					
+					<div class = "part-content">
+						<b>Enjoy working with us</b>
+						<p>
+							... ... <br>
+							... ... <br>
+							... ... <br>
+						</p>
+					</div>
+
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
